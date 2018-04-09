@@ -1,0 +1,8 @@
+pausable: ability to pause the flow of the token making them untradable until unpaused.
+
+Ownership trasfer: Gives the ability to transfer the ownership of the token contract to another.Also allows owner to activate and use the features of the token if there are any features available to be used.
+
+mintable: if you desire tokens to be temporarily or permanently inflationary you could add this feature. mintable tokens are also use to mimic staking effect for some ERC20 tokens.
+
+
+
